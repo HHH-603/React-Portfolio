@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 html {
     font-family: josefin sans-serif;
     background-color: black;
@@ -16,7 +20,7 @@ html {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50rem;
+    width: 30rem;
     height: auto;
     border-style: solid;
     border-color: white;
@@ -36,17 +40,7 @@ html {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60rem;
-    height: auto;
-    border-style: solid;
-    border-color: white;
-}
-
-#burger-logger-project {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 60rem;
+    width: 30rem;
     height: auto;
     border-style: solid;
     border-color: white;

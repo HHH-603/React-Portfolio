@@ -11,7 +11,7 @@ const Projects = () => {
     return (
         <div>
             <h1>Projects</h1>
-            <p>Below are some exapmles of my work:</p>
+            <p>Below are some examples of my work:</p>
             <hr />
             <h3>README Generator</h3>
             <img alt="readme-generator-project" src={photoOne} id="readme-generator-project" />
