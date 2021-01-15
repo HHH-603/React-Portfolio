@@ -1,25 +1,33 @@
 * {
-    background-color: white;
+    font-family: josefin sans-serif;
+    background-color: black;
+    color: white;
+}
+
+hr {
+    border-color: white;
 }
 
 html {
-    font-family: josefin sans;
-    background-color: white;
+    font-family: josefin sans-serif;
+    background-color: black;
+    color: white;
 
 }
 
 body{
-    min-height: 100vh;
-    margin: 0;
-    padding: .5rem;
-    background-color: white;
-
+    font-family: josefin sans-serif;
+    background-color: black;
+    color: white;
 }
 
 #root{
     display: flex;
     flex-direction: column;
     min-height: 100%;
+    font-family: josefin sans-serif;
+    background-color: black;
+    color: white;
 }
 
 h6{
@@ -28,7 +36,9 @@ h6{
     flex-direction: column;
     align-items: center;
     height: 50px;
-    background: white;
     margin: 0;
     font-size: .5rem;
+    font-family: josefin sans-serif;
+    background-color: black;
+    color: white;
 }

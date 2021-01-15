@@ -1,18 +1,25 @@
 body {
-    background-color: black;
+    font-family: josefin sans-serif;
+    background-color: grey;
+    color: white;
 }
 
 html {
     font-family: josefin sans-serif;
-    background-color: black;
+    background-color: grey;
     color: white;
+}
+
+p {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
 
 #travel-advisory-project {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60rem;
+    width: 30rem;
     height: auto;
 }
 
@@ -22,18 +29,14 @@ html {
     margin-right: auto;
     width: 30rem;
     height: auto;
-    border-style: solid;
-    border-color: white;
 }
 
 #readme-generator-project {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60rem;
+    width: 30rem;
     height: auto;
-    border-style: solid;
-    border-color: white;
 }
 
 #weather-dashboard-project {
@@ -42,28 +45,22 @@ html {
     margin-right: auto;
     width: 30rem;
     height: auto;
-    border-style: solid;
-    border-color: white;
 }
 
 #pwa-budget-app-project {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60rem;
+    width: 30rem;
     height: auto;
-    border-style: solid;
-    border-color: white;
 }
 
 #battle-rpg-project {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 60rem;
+    width: 30rem;
     height: auto;
-    border-style: solid;
-    border-color: white;
 }
 
 h1 {

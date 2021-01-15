@@ -7,4 +7,6 @@ h6{
     background: white;
     margin: 0;
     font-size: .5rem;
+    border-style: solid;
+    border-color: white;
 }
