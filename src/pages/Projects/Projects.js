@@ -29,7 +29,7 @@ const Projects = () => {
             <h5><a href="https://github.com/HHH-603/Weather-Dashboard">GitHub Repo</a><span> | </span><a href="https://hhh-603.github.io/Weather-Dashboard/">Deployed App</a></h5>
             <hr />
             <h3>Burger Logger Website</h3>
-            <img alt="burger-logger-project" src={photoFour} id="burger-logger-" />
+            <img alt="burger-logger-project" src={photoFour} id="burger-logger-project" />
             <p>This burger logger allows users to add burgers to either a "not devoured" or "devoured" section, and then update any non-devoured burgers as having been devoured.</p>
             <h5><a href="https://github.com/HHH-603/Burger-Logger">GitHub Repo</a><span> | </span><a href="https://shielded-reef-60017.herokuapp.com/">Deployed App</a></h5>
             <hr />
