@@ -3,7 +3,7 @@ import './style.css'
 
 const Footer = () => {
     return(
-        <h3>Hank Holmes | Full Stack Web Developer | Charlotte, NC</h3>
+        <h6>Hank Holmes | Full Stack Web Developer | Charlotte, NC</h6>
     )
 }
 

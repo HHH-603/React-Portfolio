@@ -1,4 +1,4 @@
-h3{
+h6{
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -6,4 +6,5 @@ h3{
     height: 50px;
     background: white;
     margin: 0;
+    font-size: .5rem;
 }

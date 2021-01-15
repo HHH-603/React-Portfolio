@@ -1,0 +1,103 @@
+html {
+    font-family: josefin sans-serif;
+    background-color: black;
+    color: white;
+}
+
+#travel-advisory-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: auto;
+}
+
+#burger-logger-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50rem;
+    height: auto;
+    border-style: solid;
+    border-color: white;
+}
+
+#readme-generator-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: auto;
+    border-style: solid;
+    border-color: white;
+}
+
+#weather-dashboard-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: auto;
+    border-style: solid;
+    border-color: white;
+}
+
+#burger-logger-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: auto;
+    border-style: solid;
+    border-color: white;
+}
+
+#pwa-budget-app-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: auto;
+    border-style: solid;
+    border-color: white;
+}
+
+#battle-rpg-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60rem;
+    height: auto;
+    border-style: solid;
+    border-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+}
+
+hr {
+    border: none;
+    border-top: 0.1875rem double #333;
+    color: #333;
+    overflow: visible;
+    text-align: center;
+    height: 0.3125rem;
+}
