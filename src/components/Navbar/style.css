@@ -1,6 +1,6 @@
-.navbar {
+#navbar {
     overflow: hidden;
-    background-color: black;
+    background-color: white;
     position: fixed;
     top: 0;
     width: 100%;
@@ -10,26 +10,16 @@
 Link {
     text-decoration: none;
     text-emphasis: none;
-    color: white;
 }
 
-li {
+.nav-item px-1 font-weight-bold {
     float: right;
     display: block;
     font-size: .9rem;
-    color: white;
     text-align: center;
     padding: 1rem;
+    margin: 1rem;
     text-decoration: none;
     text-emphasis: none;
-}
-
-li:hover:not(.active) {
-    background-color: white;
-    color: black;
-}
-
-li.active {
-    background-color: white;
-    color: black;
+    background: whitesmoke;
 }

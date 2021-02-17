@@ -1,0 +1,23 @@
+.card {
+    max-width: 50rem;
+    margin-bottom: 4rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.card-title {
+    text-align: center;
+    text-decoration: underline;
+    font-size: 1.5rem;
+}
+
+.card-text {
+    text-align: justify;
+}
+.card-text {
+    text-align: justify;
+}
+.card-text {
+    text-align: justify;
+}
+
