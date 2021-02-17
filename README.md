@@ -4,7 +4,7 @@ React Portfolio
 ## License
 ![Image of License](https://img.shields.io/static/v1?label=License&message=&color=blueviolet)
 ## Description
-This is my professional portfolio, using React.js. Please feel free to visit my deployed application [here] (https://hhh-reactportfolio.herokuapp.com/).
+This is my professional portfolio, using React.js. Please feel free to visit my deployed application [here](https://hhh-reactportfolio.herokuapp.com/).
 
 ### Table of Contents
 [Installation](#installation)
